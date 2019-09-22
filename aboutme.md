@@ -21,6 +21,23 @@ I've spent over 15 years in pre-hospital care as an EMT-I, AEMT and Paramedic in
 ### Sports
 I've been playing softball and darts for over 25 years. These sports, both team and individual, have taught me the importance of practice, team work, determination, class and dignity. These are skills perfect for a career in Data Science.
 
+### Tools of the Trade
+
+- Python
+- Jupyter Notebooks
+- PyCharm
+- Pandas
+- Scikit-learn
+- Visualizations
+          - Matplotlib
+          - Seaborn
+          - Bokeh
+          - Plotly
+- Cufflinks
+- Web Scraping
+          - Selenium
+          - BeautifulSoup
+
 
 
 

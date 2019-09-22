@@ -1,7 +1,7 @@
 ---
 title: The Golden Knights are top of the league
 subtitle: Just working on learning
-image:
+image:/img/dnask.jpg
 ---
 
 Dansk will make a road start versus the Kings on Thursday, Ben Gotz of the Las Vegas Review-Journal reports.

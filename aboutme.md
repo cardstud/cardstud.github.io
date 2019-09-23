@@ -18,6 +18,7 @@ Much is made about "thinking outside the box" but I contend that we must first "
  <li>BS Health Physics, graduated UNLV 2006</li>
  <li>Medical field background - prehospital care, 1992-2004; 2014-2016</li>
  <li>Softball - coaching/playing</li>
+ <li>Steel-tip Darts - since 1994, Leagues: SNDA, SRDA
  <li>Currently attending Lambda School where I am growing and honing skills in Data Science at an exponential rate</li>
  </ul>
 

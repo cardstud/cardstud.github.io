@@ -13,10 +13,12 @@ Hi, I'm Todd DiFronzo, a data scientist, with a focus on medical, gaming and spo
 Much is made about "thinking outside the box" but I contend that we must first "think inside the box" correctly to build a solid foundation before moving outside. To do this, one must forgo the age-old memorization schooling and embrace the ideology of critical thinking. Knowing how something works is much more useful then remembering how something works.
 
 ### Background
- -BS Health Physics, graduated UNLV 2006
- -Medical field background which will be my DS point of interest
- -Other interests are Darts, softball and anything Las Vegas
- -No professional DS experience, but is attending Lambda School to grow and hone skills in Data Science
+ <ul>
+ <li>BS Health Physics, graduated UNLV 2006</li>
+ <li>Medical field background - prehospital care</li>
+ <li>Softball - coaching/playing</li>
+ <li>No professional DS experience, but is attending Lambda School to grow and hone skills in Data Science</li>
+ </ul>
 
 ### Medical Field
 I've spent over 15 years in pre-hospital care as an EMT-I, AEMT and Paramedic in the very busy, high call volume of Las Vegas. This background has put me in tough stressful situations that taught me to think clearly and quickly with patience and confidence. My goal was to create a positive impact on other fellow human beings lives and provide the best overall outcome for my patients. I believe Data Science can be weielded to achieve these same goals albeit in a different capacity.

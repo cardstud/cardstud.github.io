@@ -19,7 +19,7 @@ Much is made about "thinking outside the box" but I contend that we must first "
  -No professional DS experience, but is attending Lambda School to grow and hone skills in Data Science
 
 ### Medical Field
-I've spent over 15 years in pre-hospital care as an EMT-I, AEMT and Paramedic in the very busy, high call volume of Las Vegas. This background has put me in tough stressful situations that taught me to think clearly and quickly with patience and confidence. My goal was to create a positive impact on other fellow human beings life and provide the best overall outcome for my patients. I believe Data Science can be weielded to achieve these same goals albeit in a different capacity.
+I've spent over 15 years in pre-hospital care as an EMT-I, AEMT and Paramedic in the very busy, high call volume of Las Vegas. This background has put me in tough stressful situations that taught me to think clearly and quickly with patience and confidence. My goal was to create a positive impact on other fellow human beings lives and provide the best overall outcome for my patients. I believe Data Science can be weielded to achieve these same goals albeit in a different capacity.
 
 ### Health Physics
 Health Physics is the applied physics of radiation protection for health and health care purposes. It is the science concerned with the recognition, evaluatoin and control of health hazards to permit the safe use and application of ionizing radiation

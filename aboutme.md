@@ -18,7 +18,7 @@ Much is made about "thinking outside the box" but I contend that we must first "
  <li>BS Health Physics, graduated UNLV 2006</li>
  <li>Medical field background - prehospital care, 1992-2004; 2014-2016</li>
  <li>Softball - coaching/playing</li>
- <li>No professional DS experience, but is attending Lambda School to grow and hone skills in Data Science</li>
+ <li>Currently attending Lambda School where I am growing and honing skills in Data Science at an exponential rate</li>
  </ul>
 
 ### Medical Field

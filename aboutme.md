@@ -12,7 +12,7 @@ Hi, I'm Todd DiFronzo, a data scientist, with a focus on medical, gaming and spo
 
 Much is made about "thinking outside the box" but I contend that we must first "think inside the box" correctly to build a solid foundation before moving outside. To do this, one must forgo the age-old memorization schooling and embrace the ideology of critical thinking. Knowing how something works is much more useful then remembering how something works.
 
-### Biography
+### Background
  -BS Health Physics, graduated UNLV 2006
  -Medical field background which will be my DS point of interest
  -Other interests are Darts, softball and anything Las Vegas

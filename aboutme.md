@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: 
-bigimg: 
+bigimg: "/img/bg.jpg"
 ---
 
  

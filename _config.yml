@@ -1,8 +1,7 @@
 
 ---
-.......
-bigimg: 
-  - "/img/bg.jpg" : "Todd"
+bigimg: "/img/bg.jpg" : "Todd"
+
 ---  
 
 # --- General options --- #

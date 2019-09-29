@@ -1,6 +1,8 @@
 
 ---
-bigimg: "/img/bg.jpg" : "Todd"
+bigimg: 
+"/img/bg.jpg" : "Todd"
+"/img/td1.jpg": "Todd1"
 
 ---  
 

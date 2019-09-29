@@ -253,7 +253,6 @@ prose:
 
 # Build settings
 show_downloads: true
-google_analytics:
 theme: jekyll-theme-midnight
 
 plugins:

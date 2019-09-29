@@ -252,8 +252,6 @@ prose:
           help: "Check to publish post, uncheck to hide."
 
 # Build settings
-title: Midnight theme
-description: Midnight is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-midnight
